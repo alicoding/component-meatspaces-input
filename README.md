@@ -1,4 +1,4 @@
-Label
+Meatspaces Input
 ================
 
-A label web component for [Appmaker](https://github.com/mozilla-appmaker/appmaker).
+A meatspaces input web component for [Appmaker](https://github.com/mozilla-appmaker/appmaker).
